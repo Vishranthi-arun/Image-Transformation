@@ -131,63 +131,51 @@ plt.show()
 ## Output:
 ### i)Image Translation
 <br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231527948-0d0b985c-d11a-42c8-9cca-5871f07a718a.png)
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231528217-4e5973c1-d93e-4081-a252-c071aaafa17b.png)
 
-<br>
-<br>
-
 ### ii) Image Scaling
-<br>
-![image](https://user-images.githubusercontent.com/93427278/231528381-4c3d0f62-cf7b-4661-972f-ba0d74b58fb0.png)
 
-<br>
-<br>
-<br>
+![image](https://user-images.githubusercontent.com/93427278/231528381-4c3d0f62-cf7b-4661-972f-ba0d74b58fb0.png)
 
 
 ### iii)Image shearing
 <br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231528536-d04cc95d-ed0b-4040-ad47-9c2b0837d91d.png)
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231528631-c3797347-b09a-427b-b93d-ec377adb127d.png)
 
-<br>
-<br>
 
 
 ### iv)Image Reflection
 <br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231528701-77ce4aff-0ca5-46d1-894f-3d9bc523d602.png)
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231528798-b5c5a48b-53b0-4e96-8738-70d3a434c1bf.png)
-
-<br>
-<br>
-
 
 
 ### v)Image Rotation
-<br>
-<br>
-![image](https://user-images.githubusercontent.com/93427278/231528876-6134d5e7-672e-4b06-8e2d-b23a5ab9ee54.png)
 
-<br>
-<br>
+
+
+![image](https://user-images.githubusercontent.com/93427278/231528876-6134d5e7-672e-4b06-8e2d-b23a5ab9ee54.png)
 
 
 
 ### vi)Image Cropping
-<br>
-<br>
+
 ![image](https://user-images.githubusercontent.com/93427278/231528943-f1b4aa39-e880-4399-a0f6-6a1a8830bb0b.png)
 
-<br>
-<br>
 
 
 
